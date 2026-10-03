@@ -6,7 +6,7 @@ This GitHub account is where we share agent skills and examples for using those 
 
 ## Start here
 
-[Agent skills](https://github.com/CleanScrape/agent-skills) covers all ten CleanScrape Actors, from app-review comparison and search trends to product, news, event, hotel, Threads post and Likee comment research. You can work with existing exports without starting a new scrape. Fresh collection uses your own Apify account and is billed at the Actor's current rates.
+[Agent skills](https://github.com/CleanScrape/agent-skills) covers all eleven CleanScrape Actors, from app-review comparison and search trends to product, news, event, hotel, Threads post, Likee comment and tennis match research. You can work with existing exports without starting a new scrape. Fresh collection uses your own Apify account and is billed at the Actor's current rates.
 
 [Browse our Actors](https://apify.com/cleanscrape) for the supported sources, examples and pricing.
 
