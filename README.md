@@ -10,6 +10,15 @@ This GitHub account is where we share agent skills and examples for using those 
 
 [Browse our Actors](https://apify.com/cleanscrape) for the supported sources, examples and pricing.
 
+## Python libraries
+
+For scripts that broke when an old library stopped working:
+
+- [trendreq](https://github.com/CleanScrape/trendreq): a drop-in replacement for pytrends. Same `TrendReq` API, without 429 errors.
+- [app-store-reviews](https://github.com/CleanScrape/app-store-reviews): a drop-in replacement for app-store-scraper, plus Google Play reviews.
+
+Both run on our Apify Actors, so there's no proxy setup on your side.
+
 [Watch a demo](https://www.youtube.com/@CleanScrapeTools) or [read a walkthrough](https://dev.to/cleanscrape).
 
 ## Questions or feedback
