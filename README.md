@@ -14,7 +14,7 @@ This GitHub account is where we share agent skills and examples for using those 
 
 For scripts that broke when an old library stopped working:
 
-- [trendreq](https://github.com/CleanScrape/trendreq): a drop-in replacement for pytrends. Same `TrendReq` API, without 429 errors.
+- [trendreq](https://github.com/CleanScrape/trendreq): a drop-in replacement for pytrends. Same `TrendReq` API, with Google Trends data fetched through Apify with managed proxies and retries.
 - [app-store-reviews](https://github.com/CleanScrape/app-store-reviews): a drop-in replacement for app-store-scraper, plus Google Play reviews.
 
 Both run on our Apify Actors, so there's no proxy setup on your side.
